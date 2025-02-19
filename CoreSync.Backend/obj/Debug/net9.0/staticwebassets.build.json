@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "2rkJiA3qhXAcuJ4BMasTCcEnCgQwAPOpAl1xve8RdhM=",
+  "Source": "CoreSync.Backend",
+  "BasePath": "_content/CoreSync.Backend",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
