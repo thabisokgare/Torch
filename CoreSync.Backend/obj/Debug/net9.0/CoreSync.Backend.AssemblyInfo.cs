@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CoreSync.Backend")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+651ca248ea99ceccdd464662e26db255f8c40c25")]
 [assembly: System.Reflection.AssemblyProductAttribute("CoreSync.Backend")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CoreSync.Backend")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

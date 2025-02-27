@@ -156,3 +156,4 @@ C:\Users\thabi\CoreSync\CoreSync.Backend\obj\Debug\net9.0\refint\CoreSync.Backen
 C:\Users\thabi\CoreSync\CoreSync.Backend\obj\Debug\net9.0\CoreSync.Backend.pdb
 C:\Users\thabi\CoreSync\CoreSync.Backend\obj\Debug\net9.0\CoreSync.Backend.genruntimeconfig.cache
 C:\Users\thabi\CoreSync\CoreSync.Backend\obj\Debug\net9.0\ref\CoreSync.Backend.dll
+C:\Users\thabi\CoreSync\CoreSync.Backend\obj\Debug\net9.0\CoreSync.Backend.sourcelink.json
